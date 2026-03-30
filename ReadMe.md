@@ -79,7 +79,7 @@ As you work, remember to not just save your files in VS Code but also periodical
 
 1. Go back to **GitHub Desktop** where you will see your changed files listed.
 2. Write a commit message describing what you changed in the bottom left.
-3. Click **Commit to main** - *Mac Shortcut: ``Cmd`` + ``Enter`` | PC Shortcut: ``Ctrl`` + ``Enter``*
-4. Click **Push origin** - *Mac Shortcut: ``Cmd`` + ``P`` | PC Shortcut: ``Ctrl`` + ``P``*
+3. Click **Commit to main** - *Mac Shortcut: ``Cmd`` + ``Enter`` |  PC Shortcut: ``Ctrl`` + ``Enter``*
+4. Click **Push origin** - *Mac Shortcut: ``Cmd`` + ``P`` |  PC Shortcut: ``Ctrl`` + ``P``*
 
 
