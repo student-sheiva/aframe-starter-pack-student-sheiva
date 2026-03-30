@@ -9,17 +9,23 @@ Below you’ll find instructions to copy (fork) this repository and set it up fo
 ##
 
 
+## GitHub → Live Site → VS Code → GitHub
+
+
+## A quick primer before we start:
+
+* To “**fork**” a “**repo**” is to make your own copy of someone else’s GitHub repository of code.
+* To “**clone**” a “**repo**” is to make a local synced copy on your machine of an online GitHub repository of code.
+* We are using **Github** and **GitHub Pages** for our **online code** and **live site**. 
+* We’re using **VS Code** and **GitHub Desktop** to edit and sync a **local copy of our code** with our online code.
+
+
 ## STEP 01
 
-Setup Your Code and Live Site (GitHub and GitHub Pages)
-
-### Fork the Example Repository ("Repo")
-
-1. **Sign in or create a new GitHub account** if you do not already have one.
-2. Once logged in, go to the [Example Code Repo](https://github.com/sheiva/aframe-starter-pack): https://github.com/sheiva/aframe-starter-pack
-3. Click **Fork** in the top right corner.
-> This step ^ makes your own copy of the example repo that you can **edit freely**
-
+### Setup your starting repo
+1. Login OR Create a GitHub account (if you don’t have one).
+2. Go to the example code repo (https://github.com/sheiva/aframe-starter-pack)
+3. Fork this repository (button in the upper right)
 
 ### Publish Your Live A-Frame Site
 
@@ -30,10 +36,18 @@ Setup Your Code and Live Site (GitHub and GitHub Pages)
    - Folder: `/root`
 4. Click **Save**.
 5. Wait a couple of minutes for GitHub Pages to publish your site.
+5. Reload this “Pages” window in GitHub and get your new live site link!
+
+
+### Yay!
+> Now you have access to both types of links you’ll submit to Canvas: 
+> (1) your **live site code**, and (2) a link to **your code** in your repo
 
 ### When you are asked to submit your work in class, submit:
 1. Your **GitHub Pages link** (your live site)
 2. Your **repository link** (your code)
+
+
 
 
 ## STEP 02
@@ -51,7 +65,7 @@ Setup Your Code and Live Site (GitHub and GitHub Pages)
 
 1. Open **GitHub Desktop**.
 2. Click **File → Clone Repository**.
-3. Select the repo you just foked in your GitHub account.
+3. Select the repo you just forked in your GitHub account.
 4. Choose where you want the project saved on your computer.
 5. Click **Clone**.
 
