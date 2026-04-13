@@ -16,7 +16,7 @@
     <a-scene embedded arjs>
       <!-- Load 3D objects in a-assets as an "a-asset-item" -->
       <a-assets>
-          <!-- <a-asset-item id="tree" src="assets/Lowpoly_tree_sample.obj"></a-asset-item> -->
+          <a-asset-item id="tree" src="assets/Lowpoly_tree_sample.obj"></a-asset-item>
       </a-assets>
 
       <!--  REMOVE OR COMMENT OUT THE SKY: -->
@@ -25,6 +25,7 @@
       <!-- Marker 1       -->
       <a-marker preset="hiro">
         <!-- here define the content to display on top of the marker -->
+        <a-obj-model src="Assets/Lowpoly_tree_sample.obj"></a-obj-model>
         <a-box position="0 0.5 0" material="color: red;"></a-box>
       </a-marker>
       <!-- end of Marker 1       -->
